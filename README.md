@@ -6,7 +6,7 @@ output:
   pdf_document: default
 
 ---
-
+# Practical ML Peer Graded Project
 # By Srijan Prem Srivastava
 ### Précis
 ##### In this assignment, the goal is to use data available to us by different equipments from 6 different users.
