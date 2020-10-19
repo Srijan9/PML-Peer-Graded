@@ -1,11 +1,5 @@
 # PML-Peer-Graded
----
-title: "Practical ML Peer Graded Project"
-output:
-  html_document: default
-  pdf_document: default
 
----
 # Practical ML Peer Graded Project
 # By Srijan Prem Srivastava
 ### Précis
